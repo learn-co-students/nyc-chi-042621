@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Eric Likes JS",
+      "content": "This is an example.",
+      "final": true
+    }
+  ]
+}
