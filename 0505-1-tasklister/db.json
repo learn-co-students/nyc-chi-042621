@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "toDo": "Buy groceries"
+    },
+    {
+      "id": 2,
+      "toDo": "Learn Fetch"
+    },
+    {
+      "toDo": "This will be saved to the backend",
+      "id": 3
+    },
+    {
+      "toDo": "Tacos",
+      "id": 4
+    },
+    {
+      "toDo": "Hello Again",
+      "id": 5
+    },
+    {
+      "toDo": "Hello Again",
+      "id": 6
+    },
+    {
+      "toDo": "Tacos Ingredients",
+      "id": 7
+    }
+  ]
+}
