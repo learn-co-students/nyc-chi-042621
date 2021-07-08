@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  snack: one
+  pantry: one
+  fresh: false
+
+two:
+  snack: two
+  pantry: two
+  fresh: false
